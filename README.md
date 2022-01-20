@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnigmaWolf
 - 👀 I’m interested in all that is STEM as well as the humanities.
-- 🌱 I’m currently learning C# and enrolled at INTEC
+- 🌱 I’m currently learning JAVA EE Development
 - 📫 You can reach me by message
 
 <!---
